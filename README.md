@@ -8,5 +8,10 @@
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=notjustmoney)
 
-![Jaeyun Cha's github stats](https://github-readme-stats.vercel.app/api?username=notjustmoney&show_icons=true&count_private=true&theme=onedark&hide_border=true)
-[![Jaeyun Cha's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=notjustmoney&show_icons=true&hide_border=true&layout=compact&theme=onedark&hide=html,css)](https://github.com/본인ID)
+
+<a href="#">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=notjustmoney&show_icons=true&count_private=true&theme=onedark&hide_border=true" />
+</a>
+<a href="#">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=notjustmoney&show_icons=true&hide_border=true&layout=compact&theme=onedark&hide=html,css" />
+</a>
