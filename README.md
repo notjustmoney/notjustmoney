@@ -6,15 +6,10 @@
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED.svg?style=flat-square&logo=Docker&logoColor=white"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Swagger-85EA2D.svg?style=flat-square&logo=Swagger&logoColor=black"/></a>
 
-![trophy](https://github-profile-trophy.vercel.app/?username=notjustmoney)
+![trophy](https://github-profile-trophy.vercel.app/?username=notjustmoney&theme=onedark)
 
 
-<div style="display:flex; flex-direction:column">
-  <a href="#">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=notjustmoney&show_icons=true&count_private=true&theme=onedark&hide_border=true" />
-  </a>
-  <a href="#">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=notjustmoney&show_icons=true&hide_border=true&layout=compact&theme=onedark&hide=html,css" />
-  </a>
-</div>
+<a href="#">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=notjustmoney&show_icons=true&count_private=true&theme=onedark&hide_border=true" />
+</a>
 
