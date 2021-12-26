@@ -8,7 +8,7 @@
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED.svg?style=flat-square&logo=Docker&logoColor=white"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Swagger-85EA2D.svg?style=flat-square&logo=Swagger&logoColor=black"/></a>
 
-### Jaeyun Cha
+### 😎 Jaeyun Cha
 Backend developer here!
 
 ### 📱Contact
