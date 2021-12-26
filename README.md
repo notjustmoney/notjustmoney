@@ -15,7 +15,7 @@ Backend developer here!
 * Website: https://notjustmoney.github.io
 * Email: chajy97@gmail.com
 * GitHub: https://github.com/notjustmoney
-* Instagram: <a href="https://instagram.com/__chajae__">https://instagram.com/__chajae__</a>
+* Instagram: [\_\_chajae\_\_](https://instagram.com/__chajae__)
 
 ### 🌱 Contributions
 ![trophy](https://github-profile-trophy.vercel.app/?username=notjustmoney&theme=onedark&no-frame=true&column=4&row=2)
