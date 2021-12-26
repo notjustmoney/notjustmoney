@@ -6,7 +6,7 @@
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED.svg?style=flat-square&logo=Docker&logoColor=white"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Swagger-85EA2D.svg?style=flat-square&logo=Swagger&logoColor=black"/></a>
 
-![trophy](https://github-profile-trophy.vercel.app/?username=notjustmoney&theme=onedark)
+![trophy](https://github-profile-trophy.vercel.app/?username=notjustmoney&theme=onedark&no-frame=true&column=8)
 
 
 <a href="#">
