@@ -1,21 +1,11 @@
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/Node.JS-339933.svg?style=flat-square&logo=Node.JS&logoColor=white"/></a>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat-square&logo=JavaScript&logoColor=black"/></a>
-
-
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=flat-square&logo=TypeScript&logoColor=white"/></a>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/NestJS-E0234E.svg?style=flat-square&logo=NestJS&logoColor=white"/></a>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=flat-square&logo=MySQL&logoColor=white"/></a>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED.svg?style=flat-square&logo=Docker&logoColor=white"/></a>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/Swagger-85EA2D.svg?style=flat-square&logo=Swagger&logoColor=black"/></a>
-
 ### 😎 Jaeyun Cha
 Backend developer here!
 
 ### 📱Contact
-* Website: https://notjustmoney.github.io
+* Website: https://www.chajae.com
 * Email: chajy97@gmail.com
 * GitHub: https://github.com/notjustmoney
-* Instagram: [https://instagram.com/\_\_chajae\_\_](https://instagram.com/__chajae__)
+* Instagram: [https://instagram.com/__chajae__](https://instagram.com/__chajae__)
 
 ### 🌱 Contributions
 ![trophy](https://github-profile-trophy.vercel.app/?username=notjustmoney&theme=onedark&no-frame=true&column=4&row=2)
